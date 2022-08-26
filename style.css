@@ -58,9 +58,9 @@ body {
   padding: 10px 24px 14px 24px;
 }
 
-.content> h1 {
+.content>h1 {
   font-size: 1.5rem;
-
+  padding: 5px 0 10px 0;
   font-weight: 700;
   color: var(--dark-blue);
   margin: 0;
@@ -68,7 +68,7 @@ body {
 
 .content>p {
   font-size: 1rem;
-  padding: 5px 0 5px 0;
+  padding: 5px 0 10px 0;
   text-align: center;
   color: var(--grayish-blue);
 }
